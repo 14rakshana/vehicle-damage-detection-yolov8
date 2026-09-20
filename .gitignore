@@ -1,0 +1,10 @@
+dataset/images/
+dataset/labels/
+runs/
+predictions/
+__pycache__/
+*.pyc
+*.pt
+*.jpg
+*.jpeg
+*.png
